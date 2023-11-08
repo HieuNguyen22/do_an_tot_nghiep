@@ -1,0 +1,202 @@
+[
+    {
+        "id": 1,
+        "created_at": null,
+        "updated_at": null,
+        "user_id": 2,
+        "user_info":{
+            "name": "Duy"
+        },
+        "company_id": 1,
+        "to_approve_id": 1,
+        "approve_id": null,
+        "time_start": "2023-08-10 17:42:30",
+        "time_end": "2023-08-10 20:42:30",
+        "month": null,
+        "duration": "99:42:23",
+        "status_code": 1,
+        "type": 1,
+        "reason": null,
+        "reason_reject": null
+    },
+    {
+        "id": 2,
+        "created_at": null,
+        "updated_at": null,
+        "user_id": 3,
+        "user_info":{
+            "name": "Cong"
+        },
+        "company_id": 1,
+        "to_approve_id": 1,
+        "approve_id": null,
+        "time_start": "2023-08-10 17:42:30",
+        "time_end": "2023-08-10 20:42:30",
+        "month": null,
+        "duration": "99:42:23",
+        "status_code": 2,
+        "type": 2,
+        "reason": null,
+        "reason_reject": null
+    },
+    {
+        "id": 3,
+        "created_at": null,
+        "updated_at": null,
+        "user_id": 4,
+        "user_info":{
+            "name": "Hieu"
+        },
+        "company_id": 1,
+        "to_approve_id": 1,
+        "approve_id": null,
+        "time_start": "2023-08-10 17:42:30",
+        "time_end": "2023-08-10 20:42:30",
+        "month": null,
+        "duration": "99:42:23",
+        "status_code": 2,
+        "type": 2,
+        "reason": null,
+        "reason_reject": null
+    },
+    {
+        "id": 4,
+        "created_at": null,
+        "updated_at": null,
+        "user_id": 5,
+        "user_info":{
+            "name": "Hao"
+        },
+        "company_id": 1,
+        "to_approve_id": 1,
+        "approve_id": null,
+        "time_start": "2023-08-10 17:42:30",
+        "time_end": "2023-08-10 20:42:30",
+        "month": null,
+        "duration": "99:42:23",
+        "status_code": 2,
+        "type": 1,
+        "reason": null,
+        "reason_reject": null
+    },
+    {
+        "id": 5,
+        "created_at": null,
+        "updated_at": null,
+        "user_id": 6,
+        "user_info":{
+            "name": "Cuong"
+        },
+        "company_id": 1,
+        "to_approve_id": 1,
+        "approve_id": null,
+        "time_start": "2023-08-10 17:42:30",
+        "time_end": "2023-08-10 20:42:30",
+        "month": null,
+        "duration": "99:42:23",
+        "status_code": 1,
+        "type": 2,
+        "reason": null,
+        "reason_reject": null
+    },
+    {
+        "id": 6,
+        "created_at": null,
+        "updated_at": null,
+        "user_id": 7,
+        "user_info":{
+            "name": "Thien"
+        },
+        "company_id": 1,
+        "to_approve_id": 1,
+        "approve_id": null,
+        "time_start": "2023-08-10 17:42:30",
+        "time_end": "2023-08-10 20:42:30",
+        "month": null,
+        "duration": "99:42:23",
+        "status_code": 2,
+        "type": 2,
+        "reason": null,
+        "reason_reject": null
+    },
+    {
+        "id": 7,
+        "created_at": null,
+        "updated_at": null,
+        "user_id": 8,
+        "user_info":{
+            "name": "Chien"
+        },
+        "company_id": 1,
+        "to_approve_id": 1,
+        "approve_id": null,
+        "time_start": "2023-08-10 17:42:30",
+        "time_end": "2023-08-10 20:42:30",
+        "month": null,
+        "duration": "99:42:23",
+        "status_code": 1,
+        "type": 1,
+        "reason": null,
+        "reason_reject": null
+    },
+    {
+        "id": 8,
+        "created_at": null,
+        "updated_at": null,
+        "user_id": 9,
+        "user_info":{
+            "name": "Ton"
+        },
+        "company_id": 1,
+        "to_approve_id": 1,
+        "approve_id": null,
+        "time_start": "2023-08-10 17:42:30",
+        "time_end": "2023-08-10 20:42:30",
+        "month": null,
+        "duration": "99:42:23",
+        "status_code": 1,
+        "type": 2,
+        "reason": null,
+        "reason_reject": null
+    },
+    {
+        "id": 9,
+        "created_at": null,
+        "updated_at": null,
+        "user_id": 10,
+        "user_info":{
+            "name": "Tom"
+        },
+        "company_id": 1,
+        "to_approve_id": 1,
+        "approve_id": null,
+        "time_start": "2023-08-10 17:42:30",
+        "time_end": "2023-08-10 20:42:30",
+        "month": null,
+        "duration": "99:42:23",
+        "status_code": 2,
+        "type": 1,
+        "reason": null,
+        "reason_reject": null
+    },
+    {
+        "id": 10,
+        "created_at": null,
+        "updated_at": null,
+        "user_id": 11,
+        "user_info":{
+            "name": "Thong"
+        },
+        "company_id": 1,
+        "to_approve_id": 1,
+        "approve_id": null,
+        "time_start": "2023-08-10 17:42:30",
+        "time_end": "2023-08-10 20:42:30",
+        "month": null,
+        "duration": "99:42:23",
+        "status_code": 1,
+        "type": 2,
+        "reason": null,
+        "reason_reject": null
+    }
+]

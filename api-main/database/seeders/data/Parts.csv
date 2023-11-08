@@ -1,0 +1,11 @@
+name,step_id,lession_id,song_id,story_id,voice,position,status,type,thumbnails,description
+Greetings,1,1,2,0,medias/part/voices/WhenYouMeetAFriend.mp3,1,1,1,medias/part/images/Greetings.png,
+My family 1,1,1,2,0,medias/part/voices/LetsLearnAboutFamily.mp3,2,1,1,medias/part/images/Myfamily1.png,
+Letter A,1,1,0,0,,3,1,2,medias/part/images/letter_A.png,
+Story time,1,1,0,1,,4,1,3,medias/part/images/str_unit1.png,
+My family 2,1,2,4,0,medias/part/voices/GoTocard1.mp3,1,1,1,medias/part/images/Myfamily2.png,
+My house,1,2,4,0,medias/part/voices/GoTocard2.mp3,2,1,1,medias/part/images/Myhouse.png,
+Letter B,1,2,0,0,,3,1,2,medias/part/images/Letter_B.png,
+Story time,1,2,0,2,,4,1,3,medias/part/images/str_unit2.png,
+Review,1,3,0,0,,1,1,4,medias/part/images/Review.png,
+Extra,1,3,0,0,,2,1,5,medias/part/images/ExtraActivities.png,

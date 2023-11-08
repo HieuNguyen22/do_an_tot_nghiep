@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "929017406358",
+    "project_id": "app-work-log",
+    "storage_bucket": "app-work-log.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:929017406358:android:31a39104d18401d51373b7",
+        "android_client_info": {
+          "package_name": "com.example.app_work_log"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHpfvdSnsvic4j5poyMyOKiov0Ybpf6D4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

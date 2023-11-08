@@ -1,0 +1,76 @@
+step_id,course_id,type,status,positon,name,title
+1,1,1,1,1,Unit 1,Say hello to my family
+1,1,1,1,2,Unit 2,Welcome to my house
+1,1,2,1,3,Brain break,Brain break
+1,1,1,1,4,Unit 3,Count with me
+1,1,1,1,5,Unit 4,This is my body
+1,1,2,1,6,Brain break,Brain break
+1,1,1,1,7,Unit 5,My favortite fruits and colors
+1,1,1,1,8,Unit 6,My favortite fruits and numbers
+1,1,2,1,9,Brain break,Brain break
+1,1,1,1,10,Unit 7,I love my pets
+1,1,1,1,11,Unit 8,How I feel
+1,1,2,1,12,Brain break,Brain break
+1,1,1,1,13,Unit 9,My favorite toys and colors
+1,1,1,1,14,Unit 10,Where is my toy?
+1,1,2,1,15,Brain break,Brain break
+2,1,1,1,1,Unit 1,This is me
+2,1,1,1,2,Unit 2,What I wear
+2,1,2,1,3,Brain break,Brain break
+2,1,1,1,4,Unit 3,In the living room
+2,1,1,1,5,Unit 4,Food and drinks
+2,1,2,1,6,Brain break,Brain break
+2,1,1,1,7,Unit 5,This is my school
+2,1,1,1,8,Unit 6,What l do at school
+2,1,2,1,9,Brain break,Brain break
+2,1,1,1,10,Unit 7,Things around me
+2,1,1,1,11,Unit 8,In the jungle
+2,1,2,1,12,Brain break,Brain break
+2,1,1,1,13,Unit 9,Jungle animals
+2,1,1,1,14,Unit 10,Farm animals
+2,1,2,1,15,Brain break,Brain break
+3,1,1,1,1,Unit 1,Birthday party
+3,1,1,1,2,Unit 2,Snack time
+3,1,2,1,3,Brain break,Brain break
+3,1,1,1,4,Unit 3,Lets go outside
+3,1,1,1,5,Unit 4,In my bderoom
+3,1,2,1,6,Brain break,Brain break
+3,1,1,1,7,Unit 5,In the kitchen
+3,1,1,1,8,Unit 6,In the bathroom
+3,1,2,1,9,Brain break,Brain break
+3,1,1,1,10,Unit 7,In the garden
+3,1,1,1,11,Unit 8,Beautiful flowers
+3,1,2,1,12,Brain break,Brain break
+3,1,1,1,13,Unit 9,Farm things 1
+3,1,1,1,14,Unit 10,Farm things 2
+3,1,2,1,15,Brain break,Brain break
+4,1,1,1,1,Unit 1,What a beautiful day
+4,1,1,1,2,Unit 2,My favorite veggies
+4,1,2,1,3,Brain break,Brain break
+4,1,1,1,4,Unit 3,Things can go
+4,1,1,1,5,Unit 4,On the street
+4,1,2,1,6,Brain break,Brain break
+4,1,1,1,7,Unit 5,I love to play
+4,1,1,1,8,Unit 6,In the city
+4,1,2,1,9,Brain break,Brain break
+4,1,1,1,10,Unit 7,How to get there?
+4,1,1,1,11,Unit 8,People around me
+4,1,2,1,12,Brain break,Brain break
+4,1,1,1,13,Unit 9,On the table
+4,1,1,1,14,Unit 10,Being active
+4,1,2,1,15,Brain break,Brain break
+5,1,1,1,1,Unit 1,My routines
+5,1,1,1,2,Unit 2,Christmas fun
+5,1,2,1,3,Brain break,Brain break
+5,1,1,1,4,Unit 3,Music
+5,1,1,1,5,Unit 4,Pizza is so yummy
+5,1,2,1,6,Brain break,Brain break
+5,1,1,1,7,Unit 5,Seasons of the year
+5,1,1,1,8,Unit 6,On the vacation
+5,1,2,1,9,Brain break,Brain break
+5,1,1,1,10,Unit 7,Whats under the sea
+5,1,1,1,11,Unit 8,Natural world
+5,1,2,1,12,Brain break,Brain break
+5,1,1,1,13,Unit 9,On the field
+5,1,1,1,14,Unit 10,Halloween fun
+5,1,2,1,15,Brain break,Brain break

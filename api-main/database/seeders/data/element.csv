@@ -1,0 +1,24 @@
+course_id,lession_id,part_id,content,stress,position,status,type,voice_1,voice_2,voice_3,image_1,image_2,image_3,image_4,image_5,note,is_speak,voice_intro
+1,1,1,Hi!,,1,1,1,medias/element/audios/Hi.mp3,,,medias/element/images/Image_hi_1.png,medias/element/images/Image_hi_2.png,,,,,1,medias/element/audios/You_can_say_Hi.mp3
+1,1,1,Hello!,,2,1,1,medias/element/audios/Hello.mp3,,,medias/element/images/Image_hello_1.png,medias/element/images/Image_hello_2.png,,,,,1,medias/element/audios/When_You_Hello.mp3
+1,1,1,Nice to meet you!,,3,1,1,medias/element/audios/Nice_to_meet_you.mp3,,,medias/element/images/Image_nicetomeetyou_1.png,medias/element/images/Image_nicetomeetyou_2.png,,,,,1,medias/element/audios/Its_good_Nice_To_Meet_You.mp3
+1,1,2,family,,1,1,1,medias/element/audios/family.mp3,medias/element/audios/This_is_my_family.mp3,,medias/element/images/image_family_1.png,medias/element/images/image_family_2.png,medias/element/images/Gif_Family.gif,,,,1,
+1,1,2,mom,,2,1,1,medias/element/audios/mom.mp3,medias/element/audios/This_is_my_mom.mp3,,medias/element/images/image_mom_1.png,medias/element/images/image_mom_2.png,medias/element/images/Gif_mom.gif,,,,1,medias/element/audios/Who_is_this.mp3
+1,1,2,dad,,3,1,1,medias/element/audios/dad.mp3,medias/element/audios/This_is_my_dad.mp3,,medias/element/images/image_dad_1.png,medias/element/images/Image_dad_2.png,medias/element/images/Gif_dad.gif,,,,1,medias/element/audios/Who_is_this.mp3
+1,1,2,baby,,4,1,1,medias/element/audios/baby.mp3,medias/element/audios/This_is_our_baby.mp3,,medias/element/images/image_baby_1.png,medias/element/images/image_baby_2.png,medias/element/images/Gif_baby.gif,,,,1,
+1,2,5,grandma,grandma,1,1,1,medias/element/audios/grandma.mp3,,,medias/element/images/image_grandma_1.png,medias/element/images/Image_grandma_2.png,medias/element/images/Gif_grandma.gif,,,,1,medias/element/audios/This_is_my_grandma.mp3
+1,2,5,grandpa,grandpa,2,1,1,medias/element/audios/grandpa.mp3,,,medias/element/images/image_grandpa_1.png,medias/element/images/image_grandpa_2.png,medias/element/images/Gif_grandpa.gif,,,,1,medias/element/audios/This_is_my_grandpa.mp3
+1,2,5,brother,brother,3,1,1,medias/element/audios/brother.mp3,,,medias/element/images/image_brother.png,medias/element/images/image_brother_2.png,medias/element/images/Gif_brother.gif,,,,1,medias/element/audios/This_is_my_brother.mp3
+1,2,5,sister,sister,4,1,1,medias/element/audios/sister.mp3,,,medias/element/images/image_sister.png,medias/element/images/image_sister_2.png,medias/element/images/Gif_sister.gif,,,,1,medias/element/audios/This_is_my_sister.mp3
+1,2,6,kitchen,kitchen,1,1,1,medias/element/audios/kitchen.mp3,,,medias/element/images/image_kitchen_1.png,medias/element/images/image_kitchen_2.png,medias/element/images/Grandma_kitchen_gif.gif,,,,1,medias/element/audios/Grandma_is_in_the_kitchen.mp3
+1,2,6,bedroom,bedroom,2,1,1,medias/element/audios/bedroom.mp3,,,medias/element/images/bedroom_1.png,medias/element/images/bedroom_2.png,medias/element/images/sister_bedroom_gif.gif,,,,1,medias/element/audios/Sister_is_in_the_bedroom.mp3
+1,2,6,bathroom,bathroom,3,1,1,medias/element/audios/bathroom.mp3,,,medias/element/images/Bathroom_1.png,medias/element/images/Bathroom_2.png,medias/element/images/Gif_brother_bathroom.gif,,,,1,medias/element/audios/Brother_is_in_the_bathroom.mp3
+1,2,6,living room,living room,4,1,1,medias/element/audios/living_room.mp3,,,medias/element/images/Living_1.png,medias/element/images/Living_2.png,medias/element/images/grandpa_living_gif.gif,,,,1,medias/element/audios/Grandpa_is_in_the_livingroom.mp3
+1,1,3,a,a,1,1,2,medias/element/audios/letter_A.mp3,medias/element/audios/a.mp3,medias/element/audios/am_a.mp3,medias/element/images/GroupAa.png,medias/element/images/A_1.png,medias/element/images/a_2.png,medias/element/images/GroupAa.png,,,0,
+1,1,3,ant,a,2,1,1,medias/element/audios/a_a_ant.mp3,,,medias/element/images/ant.png,,,,,,1,
+1,1,3,apple,a,3,1,1,medias/element/audios/a_a_apple.mp3,,,medias/element/images/apple.png,,,,,,1,
+1,1,3,alligator,a,4,1,1,medias/element/audios/a_a_alligator.mp3,,,medias/element/images/aligator.png,,,,,,1,
+1,2,7,b,b,1,1,2,medias/element/audios/letter_B.mp3,medias/element/audios/b.mp3,medias/element/audios/am_b.mp3,medias/element/images/GroupBb.png,medias/element/images/B_2.png,medias/element/images/b_1.png,medias/element/images/GroupBb.png,,,0,
+1,2,7,ball,b,2,1,1,medias/element/audios/b_b_ball.mp3,,,medias/element/images/Ball.png,,,,,,1,
+1,2,7,bird,b,3,1,1,medias/element/audios/b_b_bird.mp3,,,medias/element/images/Bird.png,,,,,,1,
+1,2,7,book,b,4,1,1,medias/element/audios/b_b_book.mp3,,,medias/element/images/book.png,,,,,,1,
